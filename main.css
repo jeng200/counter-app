@@ -26,6 +26,7 @@ p {
 .background {
   background:rgb(224, 230, 148);
   margin: 0% 35% 20% 35%;
+  max-width: 500px;
 }
 
 button {
