@@ -8,9 +8,8 @@ body {
 }
 
 h1 {
-  margin-top: 25%;
-  margin-bottom: 10px;
   font-size: 100px;
+  margin: 0;
 }
 
 h2 {
@@ -25,8 +24,8 @@ p {
 }
 
 .background {
-  background:rgb(213, 221, 100);
-  margin: 900px;
+  background:rgb(224, 230, 148);
+  margin: 0% 35% 20% 35%;
 }
 
 button {
